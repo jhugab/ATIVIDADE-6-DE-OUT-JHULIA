@@ -1,11 +1,21 @@
 body {
-     background: #000000
+     background: #cccccc
 }
+#banner{
 
-p{  
-    text-align: center;
-}
+}  
+ h1{
+      text-align: center
+ }
 
-em strong{
-    color: rgb(0, 255, 221);
-}
+ p {
+     text-align: center
+ }
+
+    #missao{
+        font-size: 20px
+ }
+ 
+ em strong{
+        color: #ff0000;
+ }
