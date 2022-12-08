@@ -1,21 +1,30 @@
 body{
      background: #cccccc
 }
+
+
+
 h1 {
    text-align: center;
 }
+
+
 p { 
    text-align: center;
 }
+
+
 #atraves{
+         text-align:left;
      font-size: 20px;
 }
 
 #delacruz {
+
      width: 100%;
      
 }
 
-#delacruz2.jpeg {
+#delacruz {
       width: 200%;
 }
