@@ -1,33 +1,21 @@
-body {
+body{
      background: #cccccc
 }
-
-
-
-#delacruz
-
-{
-    width: 100%;
-
+h1 {
+   text-align: center;
 }
-#delacruz2.jpg
+p { 
+   text-align: center;
+}
+#atraves{
+     font-size: 20px;
+}
 
- h1{
-      text-align: center
- }
-
- p {
-     text-align: center
- }
-
-    #missao{
-        font-size: 20px
- }
- 
- em strong{
-        color: #ff0000;
- }
 #delacruz {
-     color: #810e0b;
-     text-align: right;
+     width: 100%;
+     
+}
+
+#delacruz2.jpeg {
+      width: 200%;
 }
